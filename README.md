@@ -1,2 +1,2 @@
 # NewLearning-demo
-This git repository is for learning purpose
+This git repository is for learning purposes.
